@@ -1,12 +1,5 @@
 # Pancakeswap v2 trading client
 
-<H2> I am not active on telegram at the moment, anyone that claims he's me is a scammer. If you are not sure: ask whether they can edit this page and add your telegram name to the top of this page, if they cant: block them</H2>
-
-
-<H2> New version coming this weekend with: multiple DEXs, force buy and sell, many bug fixes and speed improvements, linux and macos version</H2>
-A Pancakeswap trading client (and bot) with limit orders, stop-loss, custom gas strategies, a GUI and much more.
-
-
 
 ![alt text](https://raw.githubusercontent.com/aviddot/Pancakeswap-trading-bot/main/v1gif.gif "GIF application")
 
@@ -109,18 +102,6 @@ my_pk = ''</pre>
 - Fix "Python int too large to convert to C ssize_"
 
 (Depends on whether the application is used)
-
-<br> </br>
-<H2>Author</H2>
-
-<br> </br>
-Donations: 0x6B1CeA1c27Bbb1428978dC3C0423642fDa404367
-
-
-
-<br> </br>
-<H2>Disclosure</H2>
-I own some of the tokens portayed in the gif. These tokens are used only for example purposes and are not meant to be an endorsement. I am not affiliated with these tokens or any subsidiaries. Use the application at your own risk, I am not in any way responsible for losses.
 
   
 
